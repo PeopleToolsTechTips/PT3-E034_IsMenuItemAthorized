@@ -15,9 +15,9 @@ Import project into PeopleSoft Demo Environment
 Grand Role X_PT3_ALL_EMPLOYEES to all test employees
 Grand Role X_PT3_ADMIN Only to "Management" employees who can see the "Confidential" data
 
-### Web Posting: https://peopletoolstechtips.com/TBD
+### Web Posting: https://peopletoolstechtips.com/ismenuitemauthorized/
 
-### YouTube demo: https://youtu.be/TBD
+### YouTube demo: https://youtu.be/M8w9JXRhz14
 
 ### Contact:  
 * randy@peopletoolstechtips.com  
